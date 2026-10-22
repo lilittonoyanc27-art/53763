@@ -1,0 +1,6 @@
+{
+  "name": "¡Escucha y responde rápido! — Լսի՛ր և արագ պատասխանի՛ր",
+  "description": "Իսպաներեն-հայերեն ուսուցողական աուդիո հարթակ 7-րդ դասարանի (1.º de ESO) համար՝ դպրոցական, ֆուտբոլային, մաթեմատիկական և քերականական հարցերով ու թարգմանություններով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

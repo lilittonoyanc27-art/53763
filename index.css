@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  font-size: 17px;
+}
+
+body {
+  font-family: 'Inter', 'Noto Sans Armenian', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.01em;
+}
+
+/* Smooth font size modifier classes */
+.text-scale-normal {
+  --base-scale: 1;
+}
+.text-scale-large {
+  --base-scale: 1.15;
+}
+.text-scale-xl {
+  --base-scale: 1.3;
+}
